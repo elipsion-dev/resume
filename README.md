@@ -8,7 +8,7 @@
 ===============================================
 <br/><br/>
 
-##`Education`
+## `Education`
 ---------
 **Udemy** (Ongoing)
 - Android Studio Masterclass: Conquer the Android IDE
@@ -30,7 +30,7 @@
 - Graduated on the Dean's List, 3.86 GPA<br/><br/>
 
 
-##`Experience`
+## `Experience`
 ---------
 **Co-Founder & Chief Technical Officer, Digital Amoeba** (2022-Present, Sheridan WY)<br>
 Architect, design, and manage the development of the company's flagship product. Conduct budgetary oversight, training of new employees, process improvement audits, and the writing of all project and process documentation. Complete analysis and auditing of all Web3 technical solutions and smart contracts while keeping an eye out for new technologies that can help us improve. Manage a team that is working on the cutting edge of Web3 technology.
@@ -41,7 +41,7 @@ Worked remotely with a small team of highly skilled engineers to develop a compl
 **Lead Developer, Cryptonite Tech** (2020-2021, Toronto ON)<br>
 Led a team of 6 international web developers as we built a decentralized cryptocurrency exchange and a business website which included an online cryptocurrency university. Communicated and collaborated with other departments to complete the tasks outlined in our sprints. Wrote system and unit tests for the entire system and conducted code reviews for all of my developers. The professionalism and efficiency of my team allowed us to complete both projects on time for a successful launch.<br/><br/>
 
-##`Skills`
+## `Skills`
 ------
 **Programming:**<br>
 HTML | YAML | CSS | SASS | Bootstrap | Tailwind | Stimulus | JavaScript | Jquery | React | Node | Express | git | Python | Ruby | Rails | Solidity
@@ -55,7 +55,7 @@ Mocha | Chai | Selenium | RSpec | Capybara
 **Other:**<br>
 Driven Philomath | Remote Work Experience | Team & Project Management | Active Listening & Effective Communication | Public Speaking & Presenting | Giving & Receiving Feedback | Organization & Delegation | Critical Thinking | Flexibility & Adaptability <br/><br/>
 
-##`Recent Projects`
+## `Recent Projects`
 --------
 **[The Omega Group: A Web3 Project Founders Group](https://omegagroup.icu/)** (2021-present)
 - Group Co-Founder
