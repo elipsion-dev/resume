@@ -1,7 +1,7 @@
 ![Jacob Briggs](/rsz_headshotedit.jpg)
 # `Jacob Briggs`
 ===============================================
-#### Chief Technical Officer with Software Engineering Experience
+#### Senior Manager of Education @ The Last Mile and CTO @ Digital Amoeba
 ##### [View My Github](https://github.com/elipsion-dev)
 ##### [Email: jdbriggs81@gmail.com](mailto:jdbriggs81@gmail.com)
 ##### Phone: (812) 454-9824
