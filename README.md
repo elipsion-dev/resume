@@ -32,6 +32,9 @@
 
 ## `Experience`
 ---------
+**Senior Manager of Education, The Last Mile** (2021-Present, Oakland CA)
+Lead content strategy for each curricular release across teams within the Web Development Program, ensuring alignment of work and transparency across teams. Communicate with Curriculum developers, Remote Instruction staff, Academic Support staff, and classroom operations staff transparently to ensure that internal, cross-team, and programmatic requests are addressed promptly. Design systems to collect and analyze data about student performance and communicate high-level findings across teams and departments. Communicate regularly with the Engineering and Programs Departments to align on and design systems for content delivery and program development.
+
 **Co-Founder & Chief Technical Officer, Digital Amoeba** (2022-Present, Sheridan WY)<br>
 Architect, design, and manage the development of the company's flagship product. Conduct budgetary oversight, training of new employees, process improvement audits, and the writing of all project and process documentation. Complete analysis and auditing of all Web3 technical solutions and smart contracts while keeping an eye out for new technologies that can help us improve. Manage a team that is working on the cutting edge of Web3 technology.
 
@@ -57,13 +60,11 @@ Driven Philomath | Remote Work Experience | Team & Project Management | Active L
 
 ## `Recent Projects`
 --------
-**[The Omega Group: A Web3 Project Founders Group](https://omegagroup.icu/)** (2021-present)
-- Group Co-Founder
-- Built the Website
-- Own & Manage the Discord Server
+**[TestRxMD](https://testrxmd.com/)** (2022-2023)
+- Sole Developer
 
-**[Cyber Assassins: A Web3 NFT Project](https://cyberassassinsnft.com/)** (2021-present)
-- Project Owner
+**[The Omega Group: A Web3 Project Founders Group (Requires a Web3 browser or a Web3 extension)](https://omegagroup.icu/)** (2021-present)
+- Group Co-Founder
 - Built the Website
 - Own & Manage the Discord Server
 
